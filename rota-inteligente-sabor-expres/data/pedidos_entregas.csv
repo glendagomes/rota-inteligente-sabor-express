@@ -1,0 +1,7 @@
+id_pedido,cliente,bairro_destino,valor_refeicao
+101,Ana,Bairro A,45.0
+102,Bruno,Bairro B,32.5
+103,Carla,Bairro C,88.0
+104,Diego,Bairro D,54.0
+105,Elena,Bairro E,29.9
+106,Fábio,Bairro F,61.0

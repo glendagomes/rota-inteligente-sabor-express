@@ -1,0 +1,6 @@
+Métrica de Desempenho,Estratégia Manual (1 Moto),Estratégia IA (K-Means + A*)
+Número de Entregadores,1,2
+Distância Total da Frota (km),30.16 km,50.96 km
+Distância Média por Entregador (km),30.16 km,25.48 km
+Tempo de Espera Máximo do Cliente (min),60.3 min,55.2 min
+Ganho de Tempo Total no Atendimento (%),-,8.5%

@@ -1,0 +1,9 @@
+bairro,pos_x,pos_y,tipo
+Restaurante,0,0,Sede
+Centro,1,1,Ponto
+Bairro A,1,4,Ponto
+Bairro B,4,5,Ponto
+Bairro C,5,1,Ponto
+Bairro D,4,-3,Ponto
+Bairro E,0,-4,Ponto
+Bairro F,-3,-3,Ponto
