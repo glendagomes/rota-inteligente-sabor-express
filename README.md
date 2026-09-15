@@ -43,7 +43,7 @@ A solução foi estruturada em duas camadas principais de Inteligência Artifici
 
 
 
-## 🛠️ 3. Algoritmos Utilizados
+##  3. Algoritmos Utilizados
 
 * **K-Means:** Algoritmo de clustering não supervisionado que identifica centros de gravidade em conjuntos de dados posicionais e atribui cada ponto ao cluster mais próximo.
 * **A\* (A-Estrela):** Algoritmo de busca informada para grafos que combina o custo acumulado da rota real ($g(n)$) com a estimativa heurística ($h(n)$) do ponto atual até o destino.
